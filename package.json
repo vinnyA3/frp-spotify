@@ -18,6 +18,7 @@
   "author": "vinnyA3",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.2",
     "data.either": "^1.5.1",
     "data.task": "^3.1.1",
     "express": "^4.15.3",
