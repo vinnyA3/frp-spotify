@@ -18,12 +18,14 @@
   "author": "vinnyA3",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "base-64": "^0.1.0",
     "data.either": "^1.5.1",
     "data.task": "^3.1.1",
     "express": "^4.15.3",
+    "fantasy-identities": "^0.0.1",
     "pug": "^2.0.0-rc.2",
-    "ramda": "^0.24.1"
+    "ramda": "^0.24.1",
+    "request": "^2.81.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
