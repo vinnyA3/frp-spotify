@@ -1,4 +1,3 @@
 {
-  "port": "8080",
-  "secret": "supersecret"
+  "port": "8080"
 }
